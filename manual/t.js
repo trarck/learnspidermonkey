@@ -1,0 +1,4 @@
+function Person(){
+	
+}
+print("ok")
